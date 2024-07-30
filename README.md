@@ -2,7 +2,7 @@
 
 **Customer Churn Prediction** is a machine learning project that aims to predict whether a customer will churn based on their spending patterns, purchase frequency, and tenure. The project involves training a predictive model using historical customer data and deploying it via a web application for real-time predictions.
 
-![Customer Churn Prediction](https://github.com/JafarLone/Customer-Churn-Prediction/blob/main/photo.png?raw=true)
+![Customer Churn Prediction](https://github.com/Haroon04032003/Customer-Churn-Prediction/blob/main/Customer-Churn-Prediction-main/photo.png?raw=true)
 
 ## Key Features
 
